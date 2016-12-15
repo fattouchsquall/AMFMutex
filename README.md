@@ -7,7 +7,7 @@ Mutex PHP Library
 [![Total Downloads](https://poser.pugx.org/amf/mutex/downloads)](https://packagist.org/packages/amf/mutex)
 [![Latest Stable Version](https://poser.pugx.org/amf/mutex/v/stable)](https://packagist.org/packages/amf/mutex)
 [![License](https://poser.pugx.org/amf/mutex/license)](https://packagist.org/packages/amf/mutex)
-[![SensioLabsInsight][![SensioLabsInsight](https://insight.sensiolabs.com/projects/a8973b99-6160-4cd5-9be6-a354927269c1/mini.png)](https://insight.sensiolabs.com/projects/a8973b99-6160-4cd5-9be6-a354927269c1)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/a8973b99-6160-4cd5-9be6-a354927269c1/mini.png)](https://insight.sensiolabs.com/projects/a8973b99-6160-4cd5-9be6-a354927269c1)
 
 
 Documentation
